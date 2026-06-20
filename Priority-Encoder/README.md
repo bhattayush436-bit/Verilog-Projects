@@ -55,5 +55,5 @@ The design was verified using a Verilog testbench in Xilinx Vivado. Various inpu
 
 Ayush Bhatt
 B.Tech Electronics and Communication Engineering
-Interested in VLSI Front-End Design and RTL Development
+
 
