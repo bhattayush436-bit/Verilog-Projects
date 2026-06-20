@@ -2,6 +2,7 @@ This repository contains my RTL design projects developed using Verilog HDL and 
 
 ## Projects
 1. Priority Encoder
+2. Sequence Detector
 
 
 ## Tools Used
