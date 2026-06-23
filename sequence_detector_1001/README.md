@@ -80,7 +80,8 @@ The design was verified through simulation in Xilinx Vivado. Different input pat
 
 * `sequence_detector_1001.v`
 * `sequence_detector_1001_tb.v`
-* `waveform.png`
+* `sequence_detector_RTL.jpg`
+* `waveform_sequence_detector.png`
 * `README.md`
 
 ## Author
