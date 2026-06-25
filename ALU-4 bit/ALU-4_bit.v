@@ -26,10 +26,10 @@ output reg carry, borrow
             result = ~(A&B);
          end
          4'b0101: begin
-            result = A;
+            result = A>>1;
          end
          4'b0110: begin
-            result = B;
+            result = A<<1;
          end
          4'b0111: begin
             result = ~A;
