@@ -6,6 +6,7 @@ This repository contains my RTL design projects developed using Verilog HDL and 
 3. Traffic Light Controller
 4. Vending Machine
 5. ALU-4 bit
+6. UART Transmitter
 
 
 ## Tools Used
