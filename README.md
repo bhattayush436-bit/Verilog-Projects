@@ -7,6 +7,7 @@ This repository contains my RTL design projects developed using Verilog HDL and 
 4. Vending Machine
 5. ALU-4 bit
 6. UART Transmitter
+7. UART Receiver
 
 
 ## Tools Used
